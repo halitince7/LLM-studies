@@ -1,2 +1,2 @@
 # llm-studies
-LLM Zoomcamp Repo 
+LLM Studies Repo
